@@ -1,0 +1,5 @@
+#Mon Nov 12 17:26:44 IST 2018
+encoding=UTF-8
+domain=default
+redeployment.enabled=true
+config.resources=appdev-american.xml,american-flights-api.xml
